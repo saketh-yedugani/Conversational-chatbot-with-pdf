@@ -49,3 +49,8 @@ It allows users to upload one or more PDF files and ask questions about their co
 - **Embeddings**: HuggingFace (`all-MiniLM-L6-v2`)  
 - **PDF Parsing**: PyPDFLoader  
 
+
+<p align="center">
+  <img src="GENZ_LLM(pic).png" width="700"/>
+</p>
+
