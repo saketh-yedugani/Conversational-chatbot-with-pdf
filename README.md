@@ -51,6 +51,6 @@ It allows users to upload one or more PDF files and ask questions about their co
 
 
 <p align="center">
-  <img src="GENZ_LLM(pic).png" width="700"/>
+  <img src="8mb.video-qIf-yPM6zNDX.mp4" width="700"/>
 </p>
 
